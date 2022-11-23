@@ -5,7 +5,7 @@
 
 # Firebase Setting 
 
-### [Go to Fibase](https://firebase.google.com/)
+### [Go to Firebase](https://firebase.google.com/)
 
 ![pic1](https://user-images.githubusercontent.com/71175110/203569160-4ab280c2-88f5-42e2-9848-d878ca360e76.jpg)
 
