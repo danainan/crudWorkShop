@@ -1,3 +1,3 @@
 # Firebase Setting
 
-### Firebase [Heading link](https://firebase.google.com/)
+### [Go to Fibase](https://firebase.google.com/)
