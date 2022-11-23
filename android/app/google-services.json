@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "720172977021",
+    "project_id": "crudworkshop-1eae5",
+    "storage_bucket": "crudworkshop-1eae5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720172977021:android:b2723a454f244ea3b99a14",
+        "android_client_info": {
+          "package_name": "com.crudworkshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720172977021-47qe5hh51r0aucbgie5l5v5hhikqntt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3aTykkwoO1zDE3oC7awuP0MLwcKcDzb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720172977021-47qe5hh51r0aucbgie5l5v5hhikqntt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
