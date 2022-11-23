@@ -45,7 +45,7 @@
 -------------
 
 ``` javascript 
-เพิ่ม classpath 'com.google.gms:google-services:4.3.13'
+(หากมีแล้วไม่ต้องใส่เพิ่ม) เพิ่ม classpath 'com.google.gms:google-services:4.3.13'
 ใน android > buil.gradle ไว้ในส่วนของ depencies ดังรูป
 ```
 ![pic9](https://user-images.githubusercontent.com/71175110/203575216-43add450-aa36-45ef-a2d7-cc8299fb52f3.jpg)
@@ -53,7 +53,7 @@
 ------------
 
 ``` javascript
-เพิ่ม apply plugin : 'com.google.gms.google-services'
+(หากมีแล้วไม่ต้องใส่เพิ่ม) เพิ่ม apply plugin : 'com.google.gms.google-services'
 ใน android > app > build.gradle ไว้ส่วนบนสุด ดังรูป
 ```
 ![pic10](https://user-images.githubusercontent.com/71175110/203575627-ca38878f-57f5-436a-857f-2591309543f8.jpg)
@@ -61,7 +61,7 @@
 -------------
 
 ``` javascript
-เพิ่ม implementation platform('com.google.firebase:firebase-bom:31.1.0')
+(หากมีแล้วไม่ต้องใส่เพิ่ม) เพิ่ม implementation platform('com.google.firebase:firebase-bom:31.1.0')
 ใน android > app > build.gradle ไว้ในส่วนของ depencies ดังรูป
 ```
 ![pic11](https://user-images.githubusercontent.com/71175110/203575961-3ed40f10-77a7-48c1-9006-14ac9cdf928e.jpg)
