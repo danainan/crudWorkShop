@@ -113,3 +113,6 @@
 
 > [How to use React Native with Firebase](https://www.youtube.com/watch?v=NFbMfVTtq10&list=LL&index=14)
 
+
+
+![tesseractOCR_icon](https://user-images.githubusercontent.com/71175110/220308869-f596631e-cd64-4a05-acf5-ca3a59f22966.jpg)
